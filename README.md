@@ -1,0 +1,1 @@
+just run in terminal - ' npx tailwindcss -i input.css -o output.css --watch '
