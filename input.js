@@ -54,6 +54,7 @@ function createTodo() {
         }
         else {
             todo.push(inputValue.value.trim())
+            inputValue.value=''
             console.log(todo);
             displayTodo()
         }
