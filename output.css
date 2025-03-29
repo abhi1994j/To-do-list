@@ -598,6 +598,9 @@
   .text-gray-400 {
     color: var(--color-gray-400);
   }
+  .line-through {
+    text-decoration-line: line-through;
+  }
   .underline {
     text-decoration-line: underline;
   }
